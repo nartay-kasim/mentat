@@ -11,5 +11,8 @@
     "url": "\u0016\u001b\u0016https://github.com/nartay-kasim/mentat.git"
   },
   "author": "Nartay Kasim",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^4.2.0"
+  }
 }
