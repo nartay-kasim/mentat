@@ -1,0 +1,15 @@
+{
+  "name": "mentat",
+  "version": "1.0.0",
+  "description": "A Slack chat bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u001b\u0016https://github.com/nartay-kasim/mentat.git"
+  },
+  "author": "Nartay Kasim",
+  "license": "ISC"
+}
