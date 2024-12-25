@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "\u0016\u001b\u0016https://github.com/nartay-kasim/mentat.git"
+    "url": "https://github.com/nartay-kasim/mentat.git"
   },
   "author": "Nartay Kasim",
   "license": "ISC",
   "dependencies": {
     "@slack/bolt": "^4.2.0",
-    "@types/node": "^22.10.2",
-    "dotenv": "^16.4.7",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.7.2"
+    "dotenv": "^16.4.7"
   },
   "devDependencies": {
+    "@types/node": "^22.10.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2",
     "prettier": "^3.4.2"
   }
 }
